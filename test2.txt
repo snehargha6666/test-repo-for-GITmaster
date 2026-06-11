@@ -4,3 +4,5 @@ check test 3 -- do not interfere
 check test 4 -- do not interfere
 check test 5 -- do not interfere
 check test 6 -- do not interfere
+check test 7 -- do not interfere
+check test 8 -- do not interfere
